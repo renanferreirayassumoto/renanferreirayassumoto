@@ -1,3 +1,6 @@
+
+
+
 ## BEM-VINDO! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 Meu nome é Renan, e atualmente estou cursando o 7° semestre de Ciência da Computação.
@@ -21,5 +24,10 @@ Meu nome é Renan, e atualmente estou cursando o 7° semestre de Ciência da Com
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=renanferreirayassumoto&count_private=true&show_icons=true&include_all_commits=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=renanferreirayassumoto&show_icons=true&count_private=true&theme=gruvbox" />
+
+<a href="https://github.com/renanferreirayassumoto/API-NODEJS" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renanferreirayassumoto&repo=API-NODEJS&theme=gruvbox" />
+</a>
+
 
