@@ -3,7 +3,7 @@
 
 ## BEM-VINDO! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-Meu nome é Renan, e atualmente estou cursando o 7° semestre de Ciência da Computação.
+Meu nome é Renan, e atualmente estou cursando o 8° semestre de Ciência da Computação.
 
 ## ⚡ Tecnologias
 
